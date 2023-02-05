@@ -302,15 +302,11 @@ footer {
 @media (max-width: 570px) {
     #banner {
         width: 100%;
-        height: 250px;
+        height: 200px;
     }
 
     #img-banner {
         display: none;
-    }
-
-    #banner img{
-        height: 100%;
     }
 
     #beauty {
@@ -326,6 +322,7 @@ footer {
         padding-top: 20px;
     }
 
+ 
     #about{
         flex-flow: column;
         width: 400px;
